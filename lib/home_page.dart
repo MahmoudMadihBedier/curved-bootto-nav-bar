@@ -27,11 +27,4 @@ class _MyHomePageState extends State<MyHomePage> {
         onTap: (index){
           //moving routes
           print(index);
-        },
-
-
-      ),
-
-    );
-  }
-}
+        },),);}}
