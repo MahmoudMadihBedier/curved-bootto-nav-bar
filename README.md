@@ -1,16 +1,18 @@
-# curvedbottom
+# Curved Bottom Navigation Bar 
+ how to implement it  my video on youtube 
+ https://youtu.be/1fM0UTlWG6o
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/MahmoudMadihBedier/curved-bootto-nav-bar/assets/166904135/901c7caf-7815-4a6f-a729-89c183a32b6d
 
-A few resources to get you started if this is your first Flutter project:
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+<a href="https://www.linkedin.com/in/mahmoud-madih-762358301/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Madih-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/m__madih?igsh=a2c0Nmk5cnQ3cHo1"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-m__madih-blue?style=flat-square&logo=instagram"></a>
+<a href="moodbeder150@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moodbeder150@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
